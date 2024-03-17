@@ -1,0 +1,4 @@
+*.rar
+.vscode
+*/data
+__pycache__
